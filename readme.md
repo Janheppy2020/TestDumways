@@ -1,5 +1,5 @@
 ###################
-TEST ARKADEMI
+TEST DUMWAYS
 ###################
 
 Berikut Merupakan Penjelasan Dari Soal Yang Diberikan.
@@ -9,7 +9,7 @@ Soal 1
 *******************
 
 Mengubah/Mengkonfersi String Menjadi Bilangan Binary 
-*******************
+****************************************************
 Soal 3
 *******************
 Mebuat string bintang menjadi bentuk Ketupat dengan kondisi kelipatan Habis dibagi 2
@@ -31,7 +31,7 @@ Screen Shoot Aplikasi
 *******************
 Tampilan SQL Database 
 **************************
-![HOME](Gambar/sql produk.jpeg)
+![HOME](Gambar/sql_produk.jpeg)
 **************************
 Tampilan HOME PRODUK DAN IMPORTIR (View)
 ****************************************
@@ -39,20 +39,24 @@ Tampilan HOME PRODUK DAN IMPORTIR (View)
 ***********************************
 ![HOME](Gambar/Tampilan_Data_Importir.JPG)
 ******************************************
-Tampilan Insert
+Tampilan Insert Produk
 **************************
 ![INSERT](Gambar/Tampilan_tambah_Produk.JPG)
 ********************************************
-![INSERT](Gambar/Tampilan_tambah_importir.JPG)
+Tampilan Insert Importir
+************************
+![INSERT](Gambar/tampilan_tambah_importir.JPG)
 **********************************************
 Tampilan Edit
 **************************
 ![UPDATE](Gambar/Tampilan_Edit_Produk.JPG)
 *******************************************
-Tampilan Delete
+Tampilan Delete Produk
 **************************
 ![DELETE](Gambar/Proses_Hapus_Produk.JPG)
 *****************************************
+Tampilan Delete Importir
+*************************
 ![DELETE](Gambar/Proses_Hapus_importir.JPG)
 *****************************************
 Tampilan Success Delete
