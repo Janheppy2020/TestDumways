@@ -31,7 +31,7 @@ Screen Shoot Aplikasi
 *******************
 Tampilan SQL Database 
 **************************
-![HOME](Gambar/sql_produk.jpeg)
+![HOME](Gambar/sql_produk.jpg)
 **************************
 Tampilan HOME PRODUK DAN IMPORTIR (View)
 ****************************************
@@ -57,7 +57,7 @@ Tampilan Delete Produk
 *****************************************
 Tampilan Delete Importir
 *************************
-![DELETE](Gambar/Proses_Hapus_importir.JPG)
+![DELETE](Gambar/Proses_Hapus_mportir.JPG)
 *****************************************
 Tampilan Success Delete
 **************************
