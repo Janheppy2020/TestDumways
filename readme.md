@@ -22,8 +22,8 @@ Aplikasi Pendukung
 -SQL
 
 Instalasi
-- Buat Database arkademy
-- Import SQL arkademy.sql Kedalam Database
+- Buat Database Produsen
+- Import SQL produsen.sql Kedalam Database
 - Jalankan Website
 
 *******************
